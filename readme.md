@@ -1,21 +1,21 @@
 
 
-## **Air Quality Dataset Preprocessing**
+# **Air Quality Dataset Preprocessing**
 
 This repository contains a cleaned version of an air quality dataset. The goal was to make the dataset more usable for analysis.  
 
-### **Dataset**  
+## **Dataset**  
 - **Source:** [Air Quality](https://archive.ics.uci.edu/dataset/360/air+quality)  
 - **Size:** 9357 instances  
 
-### **Cleaning Steps**  
+## **Cleaning Steps**  
 - Handled missing values   
 - Removed duplicates  
 - Standardized date/time formats  
 - Normalized numerical values
 
 
-### **Getting Started**  
+## **Getting Started**  
 
 1. **Clone the Repository**   
    ```sh
